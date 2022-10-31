@@ -19,3 +19,5 @@ JBNU(Jeonbuk National UniverCity) CPU's Web Project BackEnd Team
 ### 프로젝트 일정
   
   * 프로젝트는 11.4부터 본격적으로 시작 예정입니다.
+  * 게시판 : 최낙현, 이주석
+  * 스터디 모집 : 김규호, 강성민
